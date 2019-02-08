@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "9668a5bfa44f0fce6b31",
+    "revision": "f3ae1ff7d5c046de61a2",
     "url": "/ca_react_dapp/static/css/main.b5b7df8e.chunk.css"
   },
   {
-    "revision": "9668a5bfa44f0fce6b31",
-    "url": "/ca_react_dapp/static/js/main.9668a5bf.chunk.js"
+    "revision": "f3ae1ff7d5c046de61a2",
+    "url": "/ca_react_dapp/static/js/main.f3ae1ff7.chunk.js"
   },
   {
     "revision": "c8449cdcee9d6922bf6b",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/ca_react_dapp/static/js/runtime~main.46c2ae7a.js"
   },
   {
-    "revision": "71f2595b1f21c81731e448e1e0858b8a",
+    "revision": "c573a3cb1ad20613b3752990687dffbb",
     "url": "/ca_react_dapp/index.html"
   }
 ];
